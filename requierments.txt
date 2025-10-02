@@ -16,3 +16,8 @@ TextInput
 Image
 Window
 get_color_from_hex
+kivy
+requests
+requests-oauthlib
+socketio
+websocket-client

@@ -1,22 +1,4 @@
 kivy
-App
-ScreenManager, Screen
- BoxLayout
-Button
-Label
-socketio
-threading
- time
-OAuth2Session
-webbrowser
-requests
-websocket
-json
-TextInput
-Image
-Window
-get_color_from_hex
-kivy
 requests
 requests-oauthlib
 socketio
